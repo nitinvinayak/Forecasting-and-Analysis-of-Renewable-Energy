@@ -1,5 +1,4 @@
-# Forecasting and Analysis of Renewable Energy
-
+# Time Series Analysis and Forecasting on Weather Data
 Prepared in partial fulfillment of MATH F432: Applied Statistical Methods
 
 ## About the Data
